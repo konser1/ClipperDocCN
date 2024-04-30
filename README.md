@@ -11,3 +11,9 @@ Website：[http://www.angusj.com]
 译者：Martin Chan <bycy0801@126.com>
 
 本文源文件来自[Clipper库](http://www.angusj.com/delphi/clipper.php)，英文版文档参见[ClipperLib Overview](http://www.angusj.com/delphi/clipper/documentation/Docs/Overview/_Body.htm)
+
+
+
+https://sourceforge.net/projects/polyclipping/
+
+https://sourceforge.net/projects/jsclipper/
